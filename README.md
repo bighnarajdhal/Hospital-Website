@@ -11,7 +11,7 @@ A fully responsive hospital website built with pure HTML, CSS, and JavaScript. D
 
 ## 🌐 Live Demo
 
-> (https://bighnarajdhal.github.io/Hospital-Website/)
+> https://bighnarajdhal.github.io/Hospital-Website/
 
 ---
 
